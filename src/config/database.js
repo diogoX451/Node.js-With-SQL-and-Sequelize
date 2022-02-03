@@ -7,10 +7,10 @@ module.exports = {
       rejectUnauthorized: false   
     }                             
 },                               
-  host: '189.5.178.200',
+  host: 'kesavan.db.elephantsql.com',
   username: 'nmpjpzzj',
   password: 'jig8kBprKzgW3qfHk_8osLLLcaWEkV3_',
-  database: 'sqlnode',
+  database: 'nmpjpzzj',
   port: '5432',
   define: {
     timestamps: true,

@@ -1,5 +1,7 @@
 const express =  require('express');
 const routes = require('./routes');
+require('./database')
+
 // chama padrão do express
 
 const app = express();
