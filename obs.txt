@@ -1,1 +1,2 @@
-para voltar algo que fiz errado "yarn sequelize db:migrate:undo"
+para voltar algo que fiz errado "yarn sequelize db:migrate:undo:all"
+
